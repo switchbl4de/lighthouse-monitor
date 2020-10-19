@@ -1,5 +1,4 @@
 /.idea/
-/config/local*.*
 node_modules/
 /public/metrics/
 /public/metrics.json
