@@ -121,7 +121,7 @@ const targets = [
     },
     {
         name: 'vbcforbh',
-        url: 'https://www.vbcforbh.com/',
+        url: 'https://vbcforbh.com/',
     },
     {
         name: 'healthtechnavigator',
@@ -129,15 +129,15 @@ const targets = [
     },
     {
         name: 'ehrbestpractices',
-        url: 'https://www.ehrbestpractices.org/',
+        url: 'https://ehrbestpractices.org/',
     },
     {
         name: 'integratedcareonline',
-        url: 'https://www.integratedcareonline.com/',
+        url: 'https://integratedcareonline.com/',
     },
     {
         name: 'mysorce',
-        url: 'https://www.mysorce.org/',
+        url: 'https://mysorce.org/',
     }
 ]
 
