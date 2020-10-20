@@ -8,7 +8,7 @@ const express = require('express')
 
 
 class Webserver {
-    constructor({ port = 80 }) {
+    constructor({ port = 3000 }) {
         this._app = express()
         this._port = port
     }
