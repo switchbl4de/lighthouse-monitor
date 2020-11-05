@@ -138,7 +138,17 @@ const targets = [
     {
         name: 'mysorce',
         url: 'https://mysorce.org/',
+    },
+    {
+        name: 'nephu',
+        url: 'https://nephu.org/',
+    },
+    {
+        name: 'psychu',
+        url: 'https://psychu.org/',
     }
+
+
 ]
 
 
