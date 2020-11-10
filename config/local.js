@@ -145,7 +145,7 @@ const targets = [
     },
     {
         name: 'psychu',
-        url: 'https://psychu.org/',
+        url: 'https://www.psychu.org/',
     }
 
 
